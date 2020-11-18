@@ -1,0 +1,12 @@
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\bin\Release\PauloElzeman.exe.config
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\bin\Release\PauloElzeman.exe
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\bin\Release\PauloElzeman.pdb
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\bin\Release\System.Data.SQLite.dll
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\bin\Release\System.Data.SQLite.xml
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.Form1.resources
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.Properties.Resources.resources
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.csproj.GenerateResource.cache
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.csproj.CoreCompileInputs.cache
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.csproj.CopyComplete
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.exe
+C:\Users\UNI19TC011930\Desktop\PauloElzeman\PauloElzeman\PauloElzeman\obj\Release\PauloElzeman.pdb
